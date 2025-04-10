@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+motor  # MongoDB driver for asyncio
+pydantic[email]
+pytest
+pytest-mock
+python-dotenv
+pydantic-settings==2.8.1
+python-jose[cryptography]
